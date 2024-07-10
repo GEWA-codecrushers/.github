@@ -1,3 +1,5 @@
+# GEWA-codecrushers
+
 *TODO: Erklärung / Begrüssung Organisation*
 
 # Repository Naming Convention
