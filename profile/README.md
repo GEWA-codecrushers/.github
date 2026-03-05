@@ -4,7 +4,7 @@
 
 # Repository Naming Convention
 
-Um die Konsistenz und Organisation unserer Repositories zu gewährleisten, halten Sie sich bitte an die unten stehende Namenskonvention. Anhand dieser Konvention können wir den Zweck und die Technologie der einzelnen Repositorien leicht identifizieren.
+Um die Konsistenz und Organisation unserer Repositories zu gewährleisten, halte dich bitte an die unten stehende Namenskonvention. Anhand dieser Konvention können wir den Zweck und die Technologie der einzelnen Repositorien leicht identifizieren.
 
 ## Format
 
